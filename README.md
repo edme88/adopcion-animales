@@ -1,4 +1,4 @@
-<# Taller de Desarrollo Web
+# Taller de Desarrollo Web
 
 Proyecto _base de codigo_ con **HTML + CSS**.
 
